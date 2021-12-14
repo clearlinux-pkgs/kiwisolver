@@ -4,7 +4,7 @@
 #
 Name     : kiwisolver
 Version  : 1.3.2
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/8e/87/259fde8cf07d06677f0a749cb157d079ebd00d40fe52faaab1a882a66159/kiwisolver-1.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8e/87/259fde8cf07d06677f0a749cb157d079ebd00d40fe52faaab1a882a66159/kiwisolver-1.3.2.tar.gz
 Summary  : A fast implementation of the Cassowary constraint solver
